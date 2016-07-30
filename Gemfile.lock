@@ -82,7 +82,7 @@ PLATFORMS
 
 DEPENDENCIES
   blade!
-  bundler (~> 1.10)
+  bundler
   rake (~> 10.0)
 
 BUNDLED WITH
